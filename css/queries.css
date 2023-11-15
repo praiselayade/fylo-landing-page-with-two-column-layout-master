@@ -115,6 +115,7 @@
   .form-input {
     margin: 0;
     width: 100%;
+    background-color: white;
   }
   .form-btn {
     width: 100%;

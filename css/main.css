@@ -211,6 +211,7 @@ a {
 .form-input {
   height: 3.6rem;
   width: 30rem;
+  background-color: white;
 }
 .form-btn:link,
 .form-btn:visited {
