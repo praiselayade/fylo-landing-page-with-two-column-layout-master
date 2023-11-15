@@ -211,6 +211,7 @@ a {
 .form-input {
   height: 3.6rem;
   width: 30rem;
+  border: none;
   background-color: white;
 }
 .form-btn:link,
